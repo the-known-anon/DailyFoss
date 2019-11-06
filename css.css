@@ -1,0 +1,61 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background:url("https://css-tricks.com/wp-content/uploads/2017/09/linear-gradient.png");
+    background-size: cover;
+    background-position: center;
+    font-family: optima;
+    color: #ff0066;
+    font-weight: 200px;
+}
+
+#container{
+    position: relative;
+    margin: 5% auto;
+    height: 600px;
+    width: 600px;
+    background:#aa80ff;
+   
+}
+
+h1{
+    font-size: 35px;
+    font-weight: 2000px;
+    color: #BE1FC6;
+    left: 15px;
+}
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.left{
+    top: 250px;
+    left: 100px;
+    padding: 40px;
+    height: 550px;
+    width: 300px;
+    position: absolute;
+}
+.l{
+ top: 30px;
+    left: 130px;
+    padding: 40px;
+    height: 550px;
+    width: 300px;
+    position: absolute;
+}
+
+.button {
+  background-color:#BE1FC6 ;
+  border: none;
+  color: white;
+  padding: 16px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
